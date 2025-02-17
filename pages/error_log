@@ -1,0 +1,30 @@
+[18-Jan-2025 18:46:03 UTC] PHP Warning:  Undefined variable $id in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 36
+[18-Jan-2025 18:46:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 39
+[18-Jan-2025 18:46:03 UTC] PHP Warning:  Undefined variable $id in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 36
+[18-Jan-2025 18:46:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 39
+[18-Jan-2025 18:46:04 UTC] PHP Warning:  Undefined variable $id in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 36
+[18-Jan-2025 18:46:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 39
+[18-Jan-2025 18:46:04 UTC] PHP Warning:  Undefined variable $id in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 36
+[18-Jan-2025 18:46:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 39
+[18-Jan-2025 19:15:29 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 173
+[18-Jan-2025 19:15:30 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 173
+[18-Jan-2025 19:15:30 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 173
+[18-Jan-2025 19:17:03 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 165
+[18-Jan-2025 19:17:04 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 165
+[18-Jan-2025 19:21:21 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/pesaan.php on line 5
+[19-Jan-2025 13:57:52 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/pages/makanan.php on line 6
