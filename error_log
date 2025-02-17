@@ -1,10 +1,6 @@
-[19-Jan-2025 05:07:06 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/index.php on line 5
-[19-Jan-2025 05:11:09 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/index.php on line 5
-[19-Jan-2025 05:12:49 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/index.php on line 5
-[19-Jan-2025 05:13:37 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/index.php on line 5
-[19-Jan-2025 05:15:29 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/index.php on line 5
-[19-Jan-2025 05:17:08 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/index.php on line 5
-[19-Jan-2025 07:19:21 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/index.php on line 5
-[19-Jan-2025 07:42:13 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/index.php on line 5
-[19-Jan-2025 10:14:13 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/index.php on line 5
-[19-Jan-2025 12:32:40 UTC] PHP Warning:  Undefined array key "role" in /home/n1571056/public_html/sorong-rasa.skripsian.site/admin/index.php on line 5
+[18-Jan-2025 18:22:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/n1571056/public_html/sorong-rasa.skripsian.site/config/database.php:7
+Stack trace:
+#0 /home/n1571056/public_html/sorong-rasa.skripsian.site/config/database.php(7): mysqli->__construct()
+#1 /home/n1571056/public_html/sorong-rasa.skripsian.site/login.php(3): include('/home/n1571056/...')
+#2 {main}
+  thrown in /home/n1571056/public_html/sorong-rasa.skripsian.site/config/database.php on line 7
